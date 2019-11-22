@@ -7,7 +7,7 @@
 #  unit_complex_.real(1.);
 #  unit_complex_.imag(0.);
 #}
-git clone https://github.com/s./make/Sophus.git
+git clone https://github.com/strasdat/Sophus.git
 cd Sophus || exit
 git checkout a621ff
 rm -rf .git/

@@ -1,5 +1,7 @@
 没有 SLAM，虚拟现实将永远停留在座椅上。
 
+计算机视觉可以分为两大方向：基于学习的方法和基于几何的方法。其中基于学习的方法最火的就是深度学习，而基于几何方法最火的就是视觉 SLAM。
+
 # 第2讲　初识SLAM
 
 1. 我在什么地方？——定位。
@@ -348,7 +350,8 @@ g2o 实例：图优化库（brew install brewsci/science/g2o）
 # References
 
 - [从零开始学习 SLAM]()
-    - [为什么要学 SLAM](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247485792&idx=1&sn=358b9bea94cf31b976abc3c12b28f4d7&chksm=97d7ecf7a0a065e1664469c22adce35e6d919d74f5ab95693c8921241f3fefe37fb571527e10&scene=21#wechat_redirect)
+    - [为什么要学 SLAM](https://zhuanlan.zhihu.com/p/43885002)
+    - [学习SLAM到底需要学什么？](https://zhuanlan.zhihu.com/p/44215735)
 - [SLAM 入门之视觉里程计](https://www.cnblogs.com/wangguchangqing/category/1134664.html)
 
 

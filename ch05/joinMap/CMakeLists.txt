@@ -17,7 +17,7 @@ find_package(PCL REQUIRED COMPONENT common io)
 include_directories(${PCL_INCLUDE_DIRS})
 add_definitions(${PCL_DEFINITIONS})
 # 必须手动添加 visualization 库
-link_libraries(/usr/local/Cellar/pcl/1.9.1_4/lib/libpcl_visualization.dylib)
+link_libraries(/usr/local/Cellar/pcl/1.9.1_5/lib/libpcl_visualization.dylib)
 
 add_executable(joinMap joinMap.cpp)
 target_link_libraries(joinMap ${OpenCV_LIBS} ${PCL_LIBRARIES})
